@@ -4,14 +4,12 @@ Hi, I'm David Niu, and this is my landing page.
 
 ### Blog
 
-Contrary to popular belief, I do learn things occasionally, and when it's particularly noteworthy, I write about it here.
-
-<h1>Latest Posts</h1>
+Contrary to popular belief, I do learn things occasionally, and when it's particularly noteworthy, I blog to celebrate the occasion. You can read my latest posts below.
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h6><a href="{{ post.url }}">{{ post.title }}</a></h6>
       {{ post.excerpt }}
     </li>
   {% endfor %}
