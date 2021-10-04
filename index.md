@@ -1,6 +1,6 @@
 ## Why Is This So Hard?
 
-Hi, I'm David Niu, and this is my landing page. Noting to see here, if you can read this you're too close, *et cetera, ad ad infinitum, ad nauseum*.
+Hi, I'm David Niu, and this is my landing page. Nothing to see here, if you can read this you're too close, *et cetera, ad ad infinitum, ad nauseum*.
 
 ### Blog
 
