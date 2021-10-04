@@ -6,6 +6,18 @@ Hi, I'm David Niu, and this is my landing page.
 
 Contrary to popular belief, I do learn things occasionally, and when it's particularly noteworthy, I write about it here.
 
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -20,8 +32,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+--->
