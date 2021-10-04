@@ -9,7 +9,7 @@ Contrary to popular belief, I do learn things occasionally, and when it's partic
 <ul>
   {% for post in site.posts %}
     <li>
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       {{ post.excerpt }}
     </li>
   {% endfor %}
