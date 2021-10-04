@@ -1,6 +1,6 @@
 ## Why Is This So Hard?
 
-Hi, I'm David Niu; I'm a student at UNC Chapel Hill double majoring in math and CS while minoring in music. This is my landing page &mdash nothing to see here, if you can read this you're too close, *et cetera, ad ad infinitum, ad nauseum*.
+Hi, I'm David Niu; I'm a student at UNC Chapel Hill double majoring in math and CS while minoring in music. This is my landing page&mdash;nothing to see here, if you can read this you're too close, *et cetera, ad ad infinitum, ad nauseum*.
 
 ### Blog
 
