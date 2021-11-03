@@ -22,3 +22,7 @@ Contrary to popular belief, I do learn things occasionally; when it's particular
     </li>
   {% endfor %}
 </ul>
+
+### [Notes | Where Is My Intuition?](notes.md)
+
+Sometimes, things are painfully obvious, and I wonder how I ever could not have understood this or that concept. Then, I forget everything and the cycle repeats. Until now, that is.
