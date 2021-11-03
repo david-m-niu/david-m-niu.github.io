@@ -10,9 +10,9 @@ This is my landing page&mdash;nothing to see here, if you can read this you're t
 
 I'm a sophomore at UNC Chapel Hill double majoring in math and CS while minoring in music. My academic interests are in mathematical analysis and deep learning, although I spend a disproportionately large amount of time finding the willpower to practice piano. 
 
-### Blog
+### [Blog](blog.md)
 
-Contrary to popular belief, I do learn things occasionally; when it's particularly noteworthy, I blog to celebrate. You can read my latest posts below, and if they aren't mindnumbing enough, feel free to satiate your perverted desires with the rest of my [entries](blog.md).
+Contrary to popular belief, I do learn things occasionally; when it's particularly noteworthy, I blog to celebrate. You can read my latest posts below, and if they aren't mindnumbing enough, feel free to satiate your perverted desires with the rest of my entries.
 
 <ul>
   {% for post in site.posts limit:3 %}
